@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **D3.js, Django and Python (I might not be able to answer tho haha))**
 
-- 📫 How to reach me **edokoh999@gmail.com**
+- 📫 How to reach me: **edokoh999@gmail.com**
 
-- ⚡ Fun fact **I am almost always sleeping or watching anime**
+- ⚡ Fun fact: **I am almost always sleeping or watching anime**
 <br/><br/>
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ugo-okoh-9467a820a/">LinkedIn</a></h3>
 <p align="left">
