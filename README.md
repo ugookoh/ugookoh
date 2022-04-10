@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ugo</h1>
-<h3 align="center">I am Canadian-based software developer who loves learning new things, starting new projects and creating businesses</h3>
+<h3 align="center">I am a Canadian-based software developer who loves learning new things, starting new projects and creating businesses</h3>
 
 - 🔭 I’m currently working on **learning new projects**
 
