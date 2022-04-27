@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artifical Intelligence, Machine Learning, Data Science and Cybersecurity**
 
-- 🎥 Some good news? **All my projects have videos and are well documented .readMe files so you can easily understand the project! Check out some of my projects**
+- 🎥 Some good news? **All my projects have videos and well documented .readMe files so you can easily understand the project! Check out some of my projects**
 
 
 - 💬 Ask me about **D3.js, Django and Python (I might not be able to answer tho haha)**
