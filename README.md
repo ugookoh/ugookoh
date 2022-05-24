@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on **learning new projects**
 
-- 🌱 I’m currently learning **Artifical Intelligence, Machine Learning, Data Science and Cybersecurity**
+- 🌱 I’m currently learning **Machine Learning and Data Science **
 
 - 🎥 Some good news? **All my projects have videos and well documented .readMe files so you can easily understand the project! Check out some of my projects**
 
 
-- 💬 Ask me about **D3.js, Django and Python (I might not be able to answer tho haha)**
+- 💬 Ask me about **Mobile App Development or building Artificial Neural Networks**
 
 - 📫 How to reach me: **edokoh999@gmail.com**
 
