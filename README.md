@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋, I'm Ugo</h1>
 <h3 align="center">I am a Canadian-based software developer who loves learning new things, starting new projects and creating businesses</h3>
 
-- 🔭 I’m currently working on **learning new projects**
+- 🔭 I’m currently working on **learning new technologies**
 
-- 🌱 I’m currently learning **Machine Learning and Data Science **
+- 🌱 I’m currently learning **Data Science**
 
 - 🎥 Some good news? **All my projects have videos and well documented .readMe files so you can easily understand the project! Check out some of my projects**
 
 
-- 💬 Ask me about **Mobile App Development or building Artificial Neural Networks**
+- 💬 Ask me about **Algorithms or building iOS apps with SwiftUI**
 
 - 📫 How to reach me: **edokoh999@gmail.com**
 
